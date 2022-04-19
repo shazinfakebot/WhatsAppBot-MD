@@ -1,1 +1,88 @@
 
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "QHGqbrD23vX+pHcpqJQ2S5PPf/oRJctp5ZE0ErRlJ04="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "Wozx6AewkMsGg7GOSdnM/eU0lyRYdqpieTDPlpkeUm4="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "OAP91T+j6KH2SDV1JV+DAMZnDza3YbenVa8+SmQqrHU="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "DCNzUaHiwUul5sn7uwkCQfJk6Jij7hUsjliuiXw2m0g="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "6NxOkU/I2vRPUZE24HlyUBy10M4yAl78uVRw2Ajnv0g="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "/m/L6fs9UKUvv1wBWM2FgRIkvJzIWw+smyDYRmuBNVY="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "THDhhlriVHEOtNy837BtNYgC5dLNKDwGT5CW3vi4feEudFVbnr/4VBBI4Blr2+74+1hePTW8MqFzhzEHWkf+Cg=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 181,
+    "advSecretKey": "iw7r6ZVpv6AS3PrXWxnHeIQoSP/j5FlXZLuMwTqOPuo=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CObC4+4BELLz+ZIGGAk=",
+      "accountSignatureKey": "GsLSdghLIKup9QvYVPExIBGm/HdaB/17UgqAsPUD7iY=",
+      "accountSignature": "C8CbDC29htbILIGuqe8jjGT295nXOI+hx7mqvK0JFr8xeV8kIorv6nnysnw3ccNagyRTgbN3g4FypEfpPp96Aw==",
+      "deviceSignature": "d1Qslu/ZvBLuo9czR8/dfjvuRJMW2HBaxn6iTdUCuHrif79mVKBO+mUXr8pC+sf0SDImbbwAIqMhdz6He6aDBw=="
+    },
+    "me": {
+      "id": "17057712916:8@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "."
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "17057712916:8@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BRrC0nYISyCrqfUL2FTxMSARpvx3Wgf9e1IKgLD1A+4m"
+        }
+      }
+    ],
+    "lastAccountSyncTimestamp": 1650358708,
+    "myAppStateKeyId": "AAAAAPVM"
+  },
+  "keys": {
+    "preKeys": {
+      "1": {
+        "private": {
+          "type": "Buffer",
+          "data": "GAykAnUqTS6o6B8jM7olq14/AdFKUjhniUaBDwcuD2Y="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "uoAhfXskpS5/afZooUTFKf+Tw9htUz+ktqPolGqnWnQ="
+        }
+      },
+      "2": {
+        "private": {
+          "type": "Buffer",
+          "data": "uNPfwmeRSMmwr9Xvd9VpE2kfjMOOm8BZLNcu2OVwTWQ="
+        },
